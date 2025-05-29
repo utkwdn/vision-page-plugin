@@ -1,0 +1,26 @@
+{
+	"name": "vision-page-plugin",
+	"version": "0.1.0",
+	"description": "Adds a custom block for the Vision page content",
+	"author": "The WordPress Contributors",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build --webpack-copy-php --blocks-manifest",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start --webpack-copy-php --blocks-manifest"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^30.16.0",
+		"copy-webpack-plugin": "^13.0.0"
+	},
+	"dependencies": {
+		"@wordpress/prettier-config": "^4.24.0",
+		"react-intersection-observer": "^9.16.0",
+		"react-player": "^2.16.0"
+	}
+}
