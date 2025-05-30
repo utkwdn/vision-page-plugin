@@ -106,7 +106,6 @@ $orangeCreamsicle: #ffd4a7;
 	background-position: top right;
 	margin-top: 6vh;
 	margin-left: -12vw;
-	margin-right: -12vw;
 	margin-right: 5vw;
 	display: block;
 	width: 90vw;
@@ -141,6 +140,7 @@ $orangeCreamsicle: #ffd4a7;
 	background-size: 50%;
 	width: 90vw;
 	padding-right: 2vw;
+	margin-bottom: 0;
 	.angleOutro {
 		padding: 7vw 12vw 2rem 12vw;
 		max-width: 80vw;
@@ -893,7 +893,6 @@ WDS custom block plugin styles
 
 #vision-page {
 	overflow: hidden;
-	padding-bottom: 80px;
 	margin-bottom: 0 !important;
 }
 
@@ -947,8 +946,5 @@ button:not(:disabled) {
 	.hero {
 		background: url("./images/vision-dots-01.png") -13vh -31vw no-repeat;
 		background-size: contain;
-	}
-	#vision-page {
-		padding-bottom: 67px;
 	}
 }
