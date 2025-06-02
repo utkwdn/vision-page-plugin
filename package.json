@@ -2,7 +2,7 @@
 	"name": "vision-page-plugin",
 	"version": "0.1.0",
 	"description": "Adds a custom block for the Vision page content",
-	"author": "UT OCM",
+	"author": "The University of Tennessee, Knoxville",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
 	"scripts": {
