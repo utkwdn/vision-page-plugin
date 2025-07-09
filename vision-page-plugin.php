@@ -1,11 +1,12 @@
 <?php
 /**
  * Plugin Name:       Vision Page
+ * Plugin URI:        https://github.com/utkwdn/vision-page-plugin
  * Description:       Adds a custom block for the Vision page content
- * Version:           0.1.0
+ * Version:           1.0.0
  * Requires at least: 6.7
  * Requires PHP:      7.4
- * Author:            The WordPress Contributors
+ * Author:            The University of Tennessee, Knoxville
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       vision-page-plugin

@@ -1,1 +1,0 @@
-{"version":3,"file":"vision-page-plugin/index.css","mappings":";;;AAAA;EACC;EACA;EACA;AACD,C","sources":["webpack://vision-page-plugin/./src/vision-page-plugin/editor.scss"],"sourcesContent":["img {\n\twidth: 100%;\n\tdisplay: block;\n\theight: auto;\n}\n"],"names":[],"sourceRoot":""}
