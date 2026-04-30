@@ -915,9 +915,7 @@ h2 {
 	word-wrap: normal !important;
 }
 
-.wp-block-list li,
-ol li:where(:not([class*="block"])),
-ul li:where(:not([class*="block"])) {
+.missionList li {
 	margin-left: auto !important;
 }
 
